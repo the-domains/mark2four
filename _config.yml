@@ -1,0 +1,28 @@
+name: mark2four
+favicon: null
+layout_spectrum: 0.4739092830568552
+typography_spectrum: 0.8252732981927693
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7774480192456394
+  lightness: 0.38555345009081066
+  saturation: 0.5690216468647122
+  rhythmicContrast: 0.45559515431523323
+purpose: []
